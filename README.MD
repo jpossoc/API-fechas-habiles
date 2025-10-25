@@ -63,6 +63,7 @@ Calcula los días de trabajo según los parámetros enviados.
 #### **Ejemplo de petición**
 ```
 GET http://localhost:3000/?days=5&hours=8&date=2025-10-23
+GET https://api-fechas-habiles-psi.vercel.app/calcular?days=4
 ```
 
 #### **Ejemplo de respuesta**
